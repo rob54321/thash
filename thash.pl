@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-use lib '/home/robert';
+use lib '/home/robert/thash';
 use THash;
 use strict;
 use warnings;
